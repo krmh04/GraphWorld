@@ -6,7 +6,7 @@ const sourceTitle =
 // So that would be like {a:{name:'Pikachu'},{'b':'Charmander'}}
 const dataSource = 'wholeworld.json';
 
-const speed = 0.5;
+const speed = 0.05;
 const numBarsToShow = 20;
 const toShowWatermark = false;
 
